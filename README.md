@@ -1,4 +1,4 @@
-#PortChecker
+# PortChecker
 When you are working with **SOLARIS OS**, every cheap, commonplace daily task can turn into a horrible nightmare which blows your mind up! But don’t worry because SOLARIS and LINUX geeks are always ready to get you out of troubles!
 
 This simple 23 lines script, reminds me of one of my first and sweetest experiences on facing SOLARIS when I had to run an Apache Tomcat Server with another script but I saw `Could not start apache tomcat`. I was not able to start Tomcat because its port was occupied by another process. 
