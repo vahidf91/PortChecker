@@ -11,7 +11,8 @@ echo “e.g. $0 22″
 exit
 fi
 
-#echo “Greping for your port, please be patient (CTRL+C breaks) … ”
+echo “Greping for your port, please be patient (CTRL+C breaks) … ”
+sleep 1
 
 for i in `ls /proc`
 do
